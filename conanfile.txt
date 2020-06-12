@@ -1,5 +1,6 @@
 [requires]
-poco/1.9.4
+glad/0.1.33
+glfw/3.3.2@bincrafters/stable
 
 [generators]
 cmake
