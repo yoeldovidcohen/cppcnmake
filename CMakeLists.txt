@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.17.3)
+set(CMAKE_CXX_STANDARD 17)
 project(cppcnmake)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)
